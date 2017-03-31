@@ -1,0 +1,18 @@
+{
+	"files_to_include":
+	[
+		"*.sublime-build",
+		"*.sublime-commands",
+		"*.sublime-completions",
+		"*.sublime-keymap",
+		"*.sublime-mousemap",
+		"*.sublime-menu",
+		"*.sublime-settings",
+		"*.sublime-snippet",
+		"*.sublime-macro",
+		"*.tmLanguage",
+		"*.tmTheme"
+	],
+	"sync": false,
+	"sync_folder": "C:/ProgramData/sublimeBackup"
+}

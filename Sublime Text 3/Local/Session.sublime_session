@@ -1,0 +1,1467 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Ray CJ/Desktop/session",
+		"/C/Users/Ray CJ/Desktop/多线程"
+	],
+	"last_version": 3126,
+	"last_window_id": 47,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 706.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"doc",
+						"doctor"
+					],
+					[
+						"co",
+						"columns"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"chi",
+						"childNodes"
+					],
+					[
+						"get",
+						"getAllNodes"
+					],
+					[
+						"node",
+						"nodeTemp"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 230.0,
+				"last_filter": "Package Control: rem",
+				"selected_items":
+				[
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"Package Control:Install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 615.0
+			},
+			"console":
+			{
+				"height": 218.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/C/Users/Ray CJ/Desktop/session/src/com/laoer/session/HttpServletRequestWrapper.java",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/SQL Beautifier.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/SqlBeautifier/SQL Beautifier.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/SBSCompare.sublime-settings",
+				"/C/Users/Ray CJ/Desktop/清理数据库日志脚本.sql",
+				"/C/Users/Ray CJ/Desktop/多线程/AllotAction.java",
+				"/C/Users/Ray CJ/Desktop/actionallot.java",
+				"/C/Users/Ray CJ/Desktop/ReadSmMidThread - 副本.js",
+				"/C/Users/Ray CJ/Desktop/倒计时.html",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Ray CJ/Desktop/sjdisjdais.js",
+				"/C/Users/Ray CJ/Desktop/sdsada.js",
+				"/C/Users/Ray CJ/Desktop/ReadSmMidThread.java",
+				"/C/Users/Ray CJ/Desktop/actionallot0119.java",
+				"/C/Users/Ray CJ/Desktop/djsjdi.js",
+				"/C/Users/Ray CJ/Desktop/edit2.js",
+				"/C/Ubuntu/Vagrantfile",
+				"/E/ecansoft/VMdisk/ecan_config/Platform_SysConfig.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/web.xml",
+				"/C/Users/Ray CJ/Desktop/session/src/log4j.properties",
+				"/C/Users/Ray CJ/Desktop/session/src/memcached.properties",
+				"/C/Users/Ray CJ/Desktop/session/src/com/laoer/session/Enumerator.java",
+				"/C/Users/Ray CJ/Desktop/session/src/com/laoer/session/MemcachedSessionFilter.java",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/applicationResource_zh_CN.properties",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/log4j.properties",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/struts.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/springmvc.xml",
+				"/C/Users/Ray CJ/Desktop/session/WebContent/WEB-INF/web.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/snaker.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/rebel.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/META-INF/maven/com.strongsoft/Ecan_Platform/pom.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/META-INF/maven/com.strongsoft/Ecan_Platform/pom.properties",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/com/ecan/platform/listener/Snaker流程表字段说明.sql",
+				"/C/Users/Ray CJ/Desktop/Examples/Example1/build.xml",
+				"/C/Users/Ray CJ/Desktop/Examples/Example1/src/example1/Example1.java",
+				"/C/Users/Ray CJ/Desktop/edit.js",
+				"/C/Users/Ray CJ/Desktop/Sublime-Text-2-Icon-master/readme.md",
+				"/C/Users/Ray CJ/Desktop/xx.js",
+				"/E/ecansoft/apache-tomcat-6.0.45/ecan_config/Platform_SysConfig.xml",
+				"/C/Users/Ray CJ/Desktop/DeptDataOptImpl.java",
+				"/C/Users/Ray CJ/Desktop/DeptDataOptAction.java",
+				"/C/Users/Ray CJ/Desktop/midDataInput.js",
+				"/C/Users/Ray CJ/Desktop/moneyEmpBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/moneyDeptBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/midDataInput_def.js",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/nsm/origiData/origiDataList.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/base.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/kflr/record_add4per.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/report/BmGrSfxmReport.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/extend/listDataV2.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/nsm/dispute/disputeList.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/nsm/origiData/midDataInput.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/bonusDestill.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/bonusModelOne.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/bonusModelTwo.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/bonusDestill4DRGS3.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/src/AutoUploadApplet.java",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/src/chineseConfig.xml",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/moneyDeptBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/Storage.java",
+				"/C/Users/Ray CJ/Desktop/ConsumeSmMidThread.java",
+				"/C/Users/Ray CJ/Desktop/ProductSmMidThread.java",
+				"/C/Users/Ray CJ/Desktop/1048行moneyDeptBonusList.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/moneyEmpBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/xs2.java",
+				"/C/Users/Ray CJ/Desktop/AllotAction.java",
+				"/C/Users/Ray CJ/.m2/settings.xml",
+				"/D/gitLib/seckill-master/pom.xml",
+				"/C/Users/Ray CJ/Desktop/217占比系数.sql",
+				"/C/Users/Ray CJ/Desktop/atable.java",
+				"/E/Library/Downloads/hm.js",
+				"/C/Users/Ray CJ/.myeclipse.properties",
+				"/C/Users/Ray CJ/Desktop/jsp2220.js",
+				"/D/gitLib/seckill-master/.gitignore",
+				"/C/Users/Ray CJ/Desktop/liebiao.js",
+				"/C/Users/Ray CJ/Desktop/绩效工资方案定义.js",
+				"/C/Users/Ray CJ/Desktop/214QQuestion.sql",
+				"/C/Users/Ray CJ/Desktop/excel导入缺失的列.sql",
+				"/C/Users/Ray CJ/Desktop/214.sql",
+				"/C/Users/Ray CJ/Desktop/tree-tab.js",
+				"/C/Users/Ray CJ/Desktop/final.js",
+				"/C/Users/Ray CJ/Desktop/lihaile.js",
+				"/C/Users/Ray CJ/Desktop/111倒计时.html",
+				"/C/Users/Ray CJ/Desktop/distill.java",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/deptBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/listdata.js",
+				"/C/Users/Ray CJ/Desktop/11.html",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/com/ecan/platform/service/database_sql/init_30_oa.sql",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/com/ecan/platform/service/database_sql/init_hbdwbh_data.sql",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/login_switchDanwei.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/login.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/index.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/script/extjs/ext-all.js",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/script/common.js",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/workflow/daiban.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/workflow/empty.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/workflow/listprocess.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/image.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/main_his.jsp",
+				"/C/Users/Ray CJ/Desktop/listdata.jsp",
+				"/C/Users/Ray CJ/Desktop/IOFlag.java",
+				"/C/Users/Ray CJ/Desktop/allotAction1.18.java",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/ueditor/ueditor.all.js",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/META-INF/maven/com.strongsoft/Ecan_Platform/pom.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/流程导入文件样例.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/META-INF/maven/com.strongsoft/Ecan_Platform/pom.properties",
+				"/C/Users/Ray CJ/Desktop/SQLQuery1.sql",
+				"/C/Users/Ray CJ/Desktop/C.java",
+				"/C/Users/Ray CJ/Desktop/P.java",
+				"/C/Users/Ray CJ/Desktop/ftest.java",
+				"/C/Users/Ray CJ/Desktop/pc.java",
+				"/C/Users/Ray CJ/Desktop/queue.java",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/src/com/ecan/web/allot/AllotAction.java",
+				"/C/Users/Ray CJ/Desktop/ERROR.java",
+				"/D/乱七八糟/log4j.properties",
+				"/C/Users/Ray CJ/Desktop/SQL1226sql.sql",
+				"/C/Users/Ray CJ/Desktop/set.js",
+				"/C/Users/Ray CJ/Desktop/sql.java",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/com/ecan/platform/service/database_sql/init_22_jixiao.sql",
+				"/C/Users/Ray CJ/Desktop/T_T.html",
+				"/E/ecansoft/ecan_config/Ecan_OJX_SysConfig.xml"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 175.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"resource",
+					"w",
+					"getBmBonusListMap",
+					"moneyDeptBonusListJsonMap",
+					"edit_fapiao",
+					"id=",
+					"id",
+					"选择科室",
+					"getSjlxbhColOrField",
+					"getFirstCol",
+					"limit",
+					"G139",
+					"G",
+					"G101",
+					"deptDataOptAction",
+					"edit",
+					"percent1",
+					"#form",
+					"form",
+					"percent1",
+					"saveData",
+					"保存",
+					"ZJ_indata",
+					"ZJ_person",
+					"医疗收入总",
+					"医疗收入",
+					"显示详细",
+					"parseFloat",
+					"fixedMoney",
+					"\t\t\t\n",
+					"zhzlkq",
+					"timeout",
+					"setSfjj",
+					"from",
+					"insert",
+					"id",
+					"10601",
+					"local",
+					"edit_fapiao",
+					"editfapiao",
+					"bonusPlan",
+					"scoreToMoney",
+					"mxlx",
+					"显示详细信息",
+					"edit_fapiao",
+					"sqlBuffer.append(\"",
+					"\");",
+					"sqlBuffer.append(\"",
+					"0",
+					"jsonStore",
+					"tree",
+					"delete_fapiao",
+					"删除",
+					"    \t\t\t\n",
+					"splitb",
+					"split",
+					"menu",
+					" menu: new Ext.menu.Menu({\n        items: [\n            // these items will render as dropdown menu items when the arrow is clicked:\n            {text: 'Item 1', handler: item1Handler},\n            {text: 'Item 2', handler: item2Handler}\n        ]\n    })",
+					"请输入",
+					"xs2",
+					"store",
+					"setDistillmoney(",
+					"+",
+					"sumSQL",
+					"\t\t\t\t\n",
+					"wsheet.addCell(label1);\n\t\t\t\twsheet.addCell(label2);",
+					"();",
+					"{\n",
+					"}\n",
+					"StringBuilder",
+					"\t\n\t\t\tString[] titles={ \"部门编号\", \"部门名称\"};\n\t\t\t\n\t\t\t\ttitles = { \"人员编号\", \"人员姓名\", \"名称\", \"数据\"};\n\t\t\ttitles.add",
+					"alert(1);",
+					");\n",
+					"columnModel",
+					"constructor",
+					"loadFeed",
+					"FeedGrid",
+					"feedgrid",
+					"constructor",
+					"this.grid",
+					"constructor",
+					"FeedGrid",
+					"store",
+					"loadFeed",
+					"FeedGrid",
+					"FeedPanel",
+					"this.grid",
+					"grid",
+					"this.grid",
+					"FeedGrid",
+					"MainPanel",
+					"FeedGrid",
+					"MainPanel",
+					"feedselect",
+					"loadFeed",
+					"appmainpanel",
+					"MainPanel",
+					"FeedPanel",
+					"repository",
+					"repositories",
+					"filtering",
+					"{",
+					"{}",
+					"  \n",
+					"isContent_Flag",
+					"\");",
+					"sqlBuffer.append(\"\t",
+					"10101",
+					"292",
+					"grid",
+					"重置",
+					"selectMonth",
+					"onSelect",
+					"重置",
+					"user_key",
+					"uKey",
+					"save",
+					"treeStore2",
+					"keyword",
+					"keyWord2",
+					"uid",
+					"save",
+					"iconCls",
+					"upt",
+					"outline",
+					"high_visiblility",
+					"奖金模块",
+					"是否隐藏"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 43.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 118.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 388.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1023.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"doc",
+						"doctor"
+					],
+					[
+						"co",
+						"columns"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"chi",
+						"childNodes"
+					],
+					[
+						"get",
+						"getAllNodes"
+					],
+					[
+						"node",
+						"nodeTemp"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Ray CJ/Desktop/session/src/com/laoer/session/Enumerator.java",
+					"settings":
+					{
+						"buffer_size": 3170,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/ProgramData/sublimeBackup/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1188,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/ProgramData/sublimeBackup/Package Control.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 345,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/ProgramData/sublimeBackup/bh_core.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1150,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 342.0,
+				"last_filter": "Package Control: in",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"Package Control:Install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 615.0
+			},
+			"console":
+			{
+				"height": 218.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Ray CJ/Desktop/session",
+				"/C/Users/Ray CJ/Desktop/session/src",
+				"/C/Users/Ray CJ/Desktop/session/src/com",
+				"/C/Users/Ray CJ/Desktop/session/src/com/laoer",
+				"/C/Users/Ray CJ/Desktop/session/src/com/laoer/session"
+			],
+			"file_history":
+			[
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/Package Syncing.sublime-settings",
+				"/C/Users/Ray CJ/Desktop/session/src/com/laoer/session/MemcachedSessionFilter.java",
+				"/C/Users/Ray CJ/Desktop/autoBuild_Def.js",
+				"/C/Users/Ray CJ/Desktop/session/清理数据库日志脚本.sql",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/Package Syncing/Package Syncing.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/C/Users/Ray CJ/Desktop/session/src/com/laoer/session/HttpServletRequestWrapper.java",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/SQL Beautifier.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/SqlBeautifier/SQL Beautifier.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/SBSCompare.sublime-settings",
+				"/C/Users/Ray CJ/Desktop/清理数据库日志脚本.sql",
+				"/C/Users/Ray CJ/Desktop/多线程/AllotAction.java",
+				"/C/Users/Ray CJ/Desktop/actionallot.java",
+				"/C/Users/Ray CJ/Desktop/ReadSmMidThread - 副本.js",
+				"/C/Users/Ray CJ/Desktop/倒计时.html",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Ray CJ/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Ray CJ/Desktop/sjdisjdais.js",
+				"/C/Users/Ray CJ/Desktop/sdsada.js",
+				"/C/Users/Ray CJ/Desktop/ReadSmMidThread.java",
+				"/C/Users/Ray CJ/Desktop/actionallot0119.java",
+				"/C/Users/Ray CJ/Desktop/djsjdi.js",
+				"/C/Users/Ray CJ/Desktop/edit2.js",
+				"/C/Ubuntu/Vagrantfile",
+				"/E/ecansoft/VMdisk/ecan_config/Platform_SysConfig.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/web.xml",
+				"/C/Users/Ray CJ/Desktop/session/src/log4j.properties",
+				"/C/Users/Ray CJ/Desktop/session/src/memcached.properties",
+				"/C/Users/Ray CJ/Desktop/session/src/com/laoer/session/Enumerator.java",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/applicationResource_zh_CN.properties",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/log4j.properties",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/struts.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/springmvc.xml",
+				"/C/Users/Ray CJ/Desktop/session/WebContent/WEB-INF/web.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/snaker.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/rebel.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/META-INF/maven/com.strongsoft/Ecan_Platform/pom.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/META-INF/maven/com.strongsoft/Ecan_Platform/pom.properties",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/com/ecan/platform/listener/Snaker流程表字段说明.sql",
+				"/C/Users/Ray CJ/Desktop/Examples/Example1/build.xml",
+				"/C/Users/Ray CJ/Desktop/Examples/Example1/src/example1/Example1.java",
+				"/C/Users/Ray CJ/Desktop/edit.js",
+				"/C/Users/Ray CJ/Desktop/Sublime-Text-2-Icon-master/readme.md",
+				"/C/Users/Ray CJ/Desktop/xx.js",
+				"/E/ecansoft/apache-tomcat-6.0.45/ecan_config/Platform_SysConfig.xml",
+				"/C/Users/Ray CJ/Desktop/DeptDataOptImpl.java",
+				"/C/Users/Ray CJ/Desktop/DeptDataOptAction.java",
+				"/C/Users/Ray CJ/Desktop/midDataInput.js",
+				"/C/Users/Ray CJ/Desktop/moneyEmpBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/moneyDeptBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/midDataInput_def.js",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/nsm/origiData/origiDataList.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/base.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/kflr/record_add4per.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/report/BmGrSfxmReport.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/extend/listDataV2.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/nsm/dispute/disputeList.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/nsm/origiData/midDataInput.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/bonusDestill.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/bonusModelOne.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/bonusModelTwo.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/bonusDestill4DRGS3.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/src/AutoUploadApplet.java",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/src/chineseConfig.xml",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/moneyDeptBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/Storage.java",
+				"/C/Users/Ray CJ/Desktop/ConsumeSmMidThread.java",
+				"/C/Users/Ray CJ/Desktop/ProductSmMidThread.java",
+				"/C/Users/Ray CJ/Desktop/1048行moneyDeptBonusList.jsp",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/moneyEmpBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/xs2.java",
+				"/C/Users/Ray CJ/Desktop/AllotAction.java",
+				"/C/Users/Ray CJ/.m2/settings.xml",
+				"/D/gitLib/seckill-master/pom.xml",
+				"/C/Users/Ray CJ/Desktop/217占比系数.sql",
+				"/C/Users/Ray CJ/Desktop/atable.java",
+				"/E/Library/Downloads/hm.js",
+				"/C/Users/Ray CJ/.myeclipse.properties",
+				"/C/Users/Ray CJ/Desktop/jsp2220.js",
+				"/D/gitLib/seckill-master/.gitignore",
+				"/C/Users/Ray CJ/Desktop/liebiao.js",
+				"/C/Users/Ray CJ/Desktop/绩效工资方案定义.js",
+				"/C/Users/Ray CJ/Desktop/214QQuestion.sql",
+				"/C/Users/Ray CJ/Desktop/excel导入缺失的列.sql",
+				"/C/Users/Ray CJ/Desktop/214.sql",
+				"/C/Users/Ray CJ/Desktop/tree-tab.js",
+				"/C/Users/Ray CJ/Desktop/final.js",
+				"/C/Users/Ray CJ/Desktop/lihaile.js",
+				"/C/Users/Ray CJ/Desktop/111倒计时.html",
+				"/C/Users/Ray CJ/Desktop/distill.java",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/WebRoot/jsp/jxkh/bonus/deptBonusList.jsp",
+				"/C/Users/Ray CJ/Desktop/listdata.js",
+				"/C/Users/Ray CJ/Desktop/11.html",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/com/ecan/platform/service/database_sql/init_30_oa.sql",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/com/ecan/platform/service/database_sql/init_hbdwbh_data.sql",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/login_switchDanwei.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/login.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/index.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/script/extjs/ext-all.js",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/script/common.js",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/workflow/daiban.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/workflow/empty.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/workflow/listprocess.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/image.jsp",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/jsp/main_his.jsp",
+				"/C/Users/Ray CJ/Desktop/listdata.jsp",
+				"/C/Users/Ray CJ/Desktop/IOFlag.java",
+				"/C/Users/Ray CJ/Desktop/allotAction1.18.java",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/ueditor/ueditor.all.js",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/META-INF/maven/com.strongsoft/Ecan_Platform/pom.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/WEB-INF/classes/流程导入文件样例.xml",
+				"/E/ecansoft/apache-tomcat-6.0.45/webapps/Ecan_Platform/META-INF/maven/com.strongsoft/Ecan_Platform/pom.properties",
+				"/C/Users/Ray CJ/Desktop/SQLQuery1.sql",
+				"/C/Users/Ray CJ/Desktop/C.java",
+				"/C/Users/Ray CJ/Desktop/P.java",
+				"/C/Users/Ray CJ/Desktop/ftest.java",
+				"/C/Users/Ray CJ/Desktop/pc.java",
+				"/C/Users/Ray CJ/Desktop/queue.java",
+				"/D/myEclipse/workspace/My Eclipse10/Ecan_JX/src/com/ecan/web/allot/AllotAction.java",
+				"/C/Users/Ray CJ/Desktop/ERROR.java",
+				"/D/乱七八糟/log4j.properties",
+				"/C/Users/Ray CJ/Desktop/SQL1226sql.sql",
+				"/C/Users/Ray CJ/Desktop/set.js"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 175.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"resource",
+					"w",
+					"getBmBonusListMap",
+					"moneyDeptBonusListJsonMap",
+					"edit_fapiao",
+					"id=",
+					"id",
+					"选择科室",
+					"getSjlxbhColOrField",
+					"getFirstCol",
+					"limit",
+					"G139",
+					"G",
+					"G101",
+					"deptDataOptAction",
+					"edit",
+					"percent1",
+					"#form",
+					"form",
+					"percent1",
+					"saveData",
+					"保存",
+					"ZJ_indata",
+					"ZJ_person",
+					"医疗收入总",
+					"医疗收入",
+					"显示详细",
+					"parseFloat",
+					"fixedMoney",
+					"\t\t\t\n",
+					"zhzlkq",
+					"timeout",
+					"setSfjj",
+					"from",
+					"insert",
+					"id",
+					"10601",
+					"local",
+					"edit_fapiao",
+					"editfapiao",
+					"bonusPlan",
+					"scoreToMoney",
+					"mxlx",
+					"显示详细信息",
+					"edit_fapiao",
+					"sqlBuffer.append(\"",
+					"\");",
+					"sqlBuffer.append(\"",
+					"0",
+					"jsonStore",
+					"tree",
+					"delete_fapiao",
+					"删除",
+					"    \t\t\t\n",
+					"splitb",
+					"split",
+					"menu",
+					" menu: new Ext.menu.Menu({\n        items: [\n            // these items will render as dropdown menu items when the arrow is clicked:\n            {text: 'Item 1', handler: item1Handler},\n            {text: 'Item 2', handler: item2Handler}\n        ]\n    })",
+					"请输入",
+					"xs2",
+					"store",
+					"setDistillmoney(",
+					"+",
+					"sumSQL",
+					"\t\t\t\t\n",
+					"wsheet.addCell(label1);\n\t\t\t\twsheet.addCell(label2);",
+					"();",
+					"{\n",
+					"}\n",
+					"StringBuilder",
+					"\t\n\t\t\tString[] titles={ \"部门编号\", \"部门名称\"};\n\t\t\t\n\t\t\t\ttitles = { \"人员编号\", \"人员姓名\", \"名称\", \"数据\"};\n\t\t\ttitles.add",
+					"alert(1);",
+					");\n",
+					"columnModel",
+					"constructor",
+					"loadFeed",
+					"FeedGrid",
+					"feedgrid",
+					"constructor",
+					"this.grid",
+					"constructor",
+					"FeedGrid",
+					"store",
+					"loadFeed",
+					"FeedGrid",
+					"FeedPanel",
+					"this.grid",
+					"grid",
+					"this.grid",
+					"FeedGrid",
+					"MainPanel",
+					"FeedGrid",
+					"MainPanel",
+					"feedselect",
+					"loadFeed",
+					"appmainpanel",
+					"MainPanel",
+					"FeedPanel",
+					"repository",
+					"repositories",
+					"filtering",
+					"{",
+					"{}",
+					"  \n",
+					"isContent_Flag",
+					"\");",
+					"sqlBuffer.append(\"\t",
+					"10101",
+					"292",
+					"grid",
+					"重置",
+					"selectMonth",
+					"onSelect",
+					"重置",
+					"user_key",
+					"uKey",
+					"save",
+					"treeStore2",
+					"keyword",
+					"keyWord2",
+					"uid",
+					"save",
+					"iconCls",
+					"upt",
+					"outline",
+					"high_visiblility",
+					"奖金模块",
+					"是否隐藏"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Ray CJ\\Desktop\\session"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Ray CJ/Desktop/session/src/com/laoer/session/Enumerator.java",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 3170,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										481,
+										481
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3168,
+												3169
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.curly"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												276,
+												277
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/ProgramData/sublimeBackup/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1188,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1186,
+												1187
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.curly"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 648.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/ProgramData/sublimeBackup/Package Control.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 345,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												343,
+												344
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.curly"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/ProgramData/sublimeBackup/bh_core.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1150,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1149,
+												1150
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.curly"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 756.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 43.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,985,611,207,1652",
+			"project": "",
+			"replace":
+			{
+				"height": 118.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 388.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 38,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,97 @@
+{
+    "last_local_data": {
+        "A File Icon.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\A File Icon.sublime-settings", 
+            "version": 1490894758.3045142
+        }, 
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap", 
+            "version": 1490925603.8939152
+        }, 
+        "Default (Windows).sublime-mousemap": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-mousemap", 
+            "version": 1490926530.213014
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Package Control.sublime-settings", 
+            "version": 1490927464.6926267
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings", 
+            "version": 1490927465.7012444
+        }, 
+        "SBSCompare.tmTheme": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\SBSCompare.tmTheme", 
+            "version": 1490923021.1691248
+        }, 
+        "SQL Beautifier.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\SQL Beautifier.sublime-settings", 
+            "version": 1490921962.4920683
+        }, 
+        "Side Bar.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Side Bar.sublime-settings", 
+            "version": 1490896248.1325312
+        }, 
+        "bh_core.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Ray CJ\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\bh_core.sublime-settings", 
+            "version": 1479718490.7351968
+        }
+    }, 
+    "last_remote_data": {
+        "A File Icon.sublime-settings": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\A File Icon.sublime-settings", 
+            "version": 1490894758.3045142
+        }, 
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\Default (Windows).sublime-keymap", 
+            "version": 1490925603.8939152
+        }, 
+        "Default (Windows).sublime-mousemap": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\Default (Windows).sublime-mousemap", 
+            "version": 1490926530.213014
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\Package Control.sublime-settings", 
+            "version": 1490927464.6926267
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\Preferences.sublime-settings", 
+            "version": 1490927465.7012444
+        }, 
+        "SBSCompare.tmTheme": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\SBSCompare.tmTheme", 
+            "version": 1490923021.1691248
+        }, 
+        "SQL Beautifier.sublime-settings": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\SQL Beautifier.sublime-settings", 
+            "version": 1490921962.4920683
+        }, 
+        "Side Bar.sublime-settings": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\Side Bar.sublime-settings", 
+            "version": 1490896248.1325312
+        }, 
+        "bh_core.sublime-settings": {
+            "dir": "", 
+            "path": "C:/ProgramData/sublimeBackup\\bh_core.sublime-settings", 
+            "version": 1479718490.7351968
+        }
+    }, 
+    "remove_packages": []
+}
